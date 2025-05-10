@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm ARAVIND REDDY KN</h1>
 <h3 align="center">An enthusiastic tech professional skilled in SAP Fiori, HICX, and Informatica IICS</h3>
 
+- 🎓 Completed my Engineering degree in **Artificial Intelligence & Machine Learning** from **VTU**
+
+- 💼 Currently working as an **Intern at Baker Hughes**
+
 - 🌱 I’m currently learning **Informatica CDI, CAI, and advanced IICS integrations**
 
 - 📫 How to reach me **aranarayanareddy@gmail.com**
@@ -35,11 +39,15 @@
   <a href="https://www.informatica.com/products/cloud-integration.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/informatica-1.svg" alt="informatica" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/XML/Query/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/XQuery_Logo.svg" alt="xquery" width="40" height="40"/>
-  </a>
-  <!-- Add SAP Fiori and HICX if you want logos; they don’t have official SVGs publicly hosted -->
 </p>
+
+<h3 align="left">Interpersonal Skills:</h3>
+<ul>
+  <li>Communication</li>
+  <li>Time Management</li>
+  <li>Team Collaboration</li>
+  <li>Problem Solving</li>
+</ul>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravindreddykn1&show_icons=true&locale=en&layout=compact" alt="aravindreddykn1" /></p>
 
