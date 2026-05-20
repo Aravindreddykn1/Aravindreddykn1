@@ -1,6 +1,6 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Aravind Reddy K N</h1>
-<h3 align="center">Data Engineering & Data Operations Professional | SQL • Python • PySpark • Informatica IICS</h3>
+<h3 align="center">Data Analyst at Baker Hughes | SQL • Python • PySpark • Informatica IICS</h3>
 
 <p align="center">
   <a href="mailto:aranarayanareddy@gmail.com">
@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Bachelor's in **Artificial Intelligence & Machine Learning** from **VTU** (CGPA: **7.75/10**)
-- 💼 Working as a **Data Operations Analyst at Baker Hughes**
+- 💼 Working as a **Data Analyst at Baker Hughes**
 - 🚀 Started as an intern in **January 2025** and converted to full-time in **June 2025**
 - 🌱 Currently learning **Informatica CDI, CAI, PySpark, and Power BI**
 - 🔍 Interested in **Data Engineering, ETL Development, Master Data Management, and Analytics**
@@ -64,12 +64,12 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### Data Engineering & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 - SQL
@@ -159,4 +159,4 @@
   </a>
   -->
 </p>
-```
+
